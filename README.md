@@ -1,67 +1,67 @@
-# 👋 Olá, eu sou a Renata Valentim
+# 👋 Hi, I'm Renata Valentim
 
-🎓 **MBA em Data Science and Analytics (USP ESALQ)** | 💊 **Farmacêutica com experiência em farmacovigilância e segurança do paciente**  
-📍 São Paulo, Brasil | 📧 renata.valentim89@gmail.com | [LinkedIn](https://www.linkedin.com/in/renata-valentim) | [GitHub](https://github.com/seuusuario)
-
----
-
-## 🚀 Sobre mim
-Profissional de **farmacovigilância** com sólida experiência em estratégia de segurança do paciente, gestão de risco e compliance em estudos clínicos e pós-marketing.  
-Atualmente, atuo como **Sr. Drug Safety Associate na ICON PLC**, liderando processos de monitoramento de estudos clínicos, submissão de eventos adversos e otimização de processos de PV.  
-
-Sou apaixonada por **ciência de dados aplicada à saúde**, explorando como **machine learning** e **analytics** podem apoiar decisões clínicas e personalizar tratamentos em saúde mental.  
+🎓 **MBA in Data Science and Analytics (USP ESALQ)** | 💊 **Pharmacist with expertise in Pharmacovigilance and Patient Safety**  
+📍 São Paulo, Brazil | 📧 renata.valentim89@gmail.com | [LinkedIn](https://www.linkedin.com/in/renata-valentim) | [GitHub](https://github.com/seuusuario)
 
 ---
 
-## 🛠️ Habilidades
-- Estratégia de Segurança do Paciente  
-- Colaboração Multifuncional  
-- Compliance Regulatório & Gestão de Risco  
-- Engajamento de Stakeholders  
-- Insights em Saúde Digital & Data Science  
-- Liderança & Mentoria  
-- Comunicação em Segurança & Tomada de Decisão  
+## 🚀 About Me
+Pharmacovigilance professional with solid experience in patient safety strategy, risk management, and regulatory compliance in clinical studies and post-marketing.  
+Currently working as **Sr. Drug Safety Associate at ICON PLC**, leading clinical study monitoring, adverse event submissions, and process optimization.  
+
+Passionate about **data science applied to healthcare**, exploring how **machine learning** and **analytics** can support clinical decision-making and personalize mental health treatments.
 
 ---
 
-## 💻 Tecnologias & Ferramentas
-- **Linguagens:** Python, SQL  
-- **Análises & Visualização:** Power BI, Excel, matplotlib, seaborn  
-- **Machine Learning:** scikit-learn, regressão logística, random forest, gradient boosting  
+## 🛠️ Key Skills
+- Patient Safety Strategy & Risk Management  
+- Cross-functional Collaboration  
+- Regulatory Compliance  
+- Stakeholder Engagement & Negotiation  
+- Digital Health & Data Insights  
+- Leadership & Mentoring  
+- Safety Communication & Decision-Making  
 
 ---
 
-## 📚 Formação
-- **MBA em Data Science and Analytics** | USP ESALQ (2024–2025)  
-- **Bacharelado em Farmácia** | UNIFESP (2010–2016)  
+## 💻 Technologies & Tools
+- **Languages:** Python, SQL  
+- **Analytics & Visualization:** Power BI, Excel, matplotlib, seaborn  
+- **Machine Learning:** scikit-learn, logistic regression, random forest, gradient boosting  
 
 ---
 
-## 📂 Experiência Profissional
-- **Sr. Drug Safety Associate | ICON PLC** (2021–atual)  
+## 📚 Education
+- **MBA in Data Science and Analytics** | USP ESALQ (2024–2025)  
+- **Bachelor’s in Pharmacy** | UNIFESP (2010–2016)  
+
+---
+
+## 📂 Professional Experience
+- **Sr. Drug Safety Associate | ICON PLC** (2021–Present)  
 - **Associate Product Surveillance Analyst | Allergan** (2017–2021)  
 - **Junior Pharmacovigilance Analyst | Captativa** (2016–2017)  
 - **Pharmacovigilance Intern | Sanofi** (2015–2016)  
 
 ---
 
-## 🌍 Idiomas
-- Português: Nativo  
-- Inglês: Fluente  
-- Espanhol: Avançado  
+## 🌍 Languages
+- Portuguese: Native  
+- English: Fluent  
+- Spanish: Advanced  
 
 ---
 
-## 🎯 Projetos em Destaque
-- **TCC MBA USP ESALQ**: Modelo preditivo para identificar a melhor condução no tratamento de doenças mentais.  
-- **Notebooks de Machine Learning**: Análise exploratória e modelagem preditiva em saúde mental.  
-- **Dashboards em Power BI**: Indicadores de farmacovigilância e segurança do paciente.  
+## 🎯 Featured Projects
+- **MBA Thesis (USP ESALQ):** Predictive model to identify the best treatment approach for mental health disorders.  
+- **Machine Learning Notebooks:** Exploratory data analysis and predictive modeling in healthcare.  
+- **Power BI Dashboards:** Patient safety and pharmacovigilance indicators.  
 
 ---
 
-## 🎵 Fora do trabalho
-Triatleta amadora 🏊🚴🏃 | Apaixonada por leitura 📚 | Música 🎶 | Séries 🎬  
+## 🎵 Outside of Work
+Amateur triathlete 🏊🚴🏃 | Book lover 📚 | Music enthusiast 🎶 | Series binge-watcher 🎬  
 
 ---
 
-✨ Obrigada por visitar meu perfil!  
+✨ Thanks for visiting my profile!
