@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Renata Valentim
 
 🎓 **MBA in Data Science and Analytics (USP ESALQ)** | 💊 **Pharmacist with expertise in Pharmacovigilance and Patient Safety**  
-📍 São Paulo, Brazil | 📧 renata.valentim89@gmail.com | [LinkedIn](https://www.linkedin.com/in/renata-valentim) | [GitHub](https://github.com/seuusuario)
+📍 São Paulo, Brazil | 📧 renata.valentim89@gmail.com | [LinkedIn](https://www.linkedin.com/in/renata-valentim) | [GitHub](https://github.com/renataovalentim) | [CV](Renata_Valentim_CV.pdf)
 
 ---
 
@@ -55,10 +55,6 @@ Passionate about applying data science to healthcare, leveraging machine learnin
 - **MBA Thesis (USP ESALQ):** Predictive model to identify the best treatment approach for mental health disorders.  
 - **Machine Learning Notebooks:** Exploratory data analysis and predictive modeling in healthcare.  
 - **Power BI Dashboards:** Patient safety and pharmacovigilance indicators.
-
----
-## 📄 Curriculum Vitae
-You can download my CV here: [Renata Valentim - CV (PDF)](Renata_Valentim_CV.pdf)
 
 ---
 
